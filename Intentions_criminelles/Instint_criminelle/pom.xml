@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
@@ -12,6 +13,9 @@
 
 	<modules>
 		<module>Servers</module>
+		<module>Service</module>
+		<module>Domain</module>
+    	<module>ear</module>
 	</modules>
 
 	<properties>
@@ -24,7 +28,7 @@
 		<dep.spring.version>4.2.1.RELEASE</dep.spring.version>
 		<dep.h2.version>1.4.188</dep.h2.version>
 		<dep.mockito.version>2.0.31-beta</dep.mockito.version>
-		<dep.junit.version>4.12</dep.junit.version>
+		<dep.junit.version>4.12</dep.junit.version>	
 		<dep.aspectj.version>1.8.7</dep.aspectj.version>
 		<dep.spring.security.version>4.0.2.RELEASE</dep.spring.security.version>
 		<dep.jackson.version>2.6.1</dep.jackson.version>
