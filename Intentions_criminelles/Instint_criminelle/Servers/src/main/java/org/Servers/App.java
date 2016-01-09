@@ -1,4 +1,4 @@
-package Enquete.Instint_criminelle;
+package org.Servers;
 
 /**
  * Hello world!

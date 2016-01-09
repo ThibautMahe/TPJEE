@@ -1,8 +1,4 @@
-package Enquete.Instint_criminelle;
-
-import junit.framework.Test;
-import junit.framework.TestCase;
-import junit.framework.TestSuite;
+package org.Servers;
 
 /**
  * Unit test for simple App.
