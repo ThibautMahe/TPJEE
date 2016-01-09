@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<commands>
-	<moveEntry
-		id="org.eclipse.wb.rcp.controls org.eclipse.swt.widgets.Combo"
-		category="org.eclipse.wb.rcp.controls"
-		nextEntry="org.eclipse.wb.rcp.controls org.eclipse.swt.widgets.Label"/>
-</commands>
